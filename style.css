@@ -1,0 +1,83 @@
+.top {
+    background-image: url("elephant.png");
+    
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    text-decoration-color: white;
+    text-shadow: 20px;
+    
+}
+.body {
+    background-color: bisque;
+}
+.bar {
+    background-image: url("bar.png");
+   
+}
+.nav-link {
+    cursor: pointer;
+}
+.hero h1  {
+    color: bisque;
+    font-size: 75px;
+    font-weight: lighter;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.hero h2  {
+    color: beige;
+    font-weight: lighter;
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+.aboutme h2 {
+    font-weight:10;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+
+.aboutme h1 {
+    color: maroon;
+    font-size: 35px;
+    font-weight:200;
+}
+
+.aboutme {   
+    padding: 1rem 1rem;
+    vertical-align:top;
+  }
+
+  .text {
+    
+    margin: 1rem;
+    padding: 2rem 2rem;
+    text-align: left;
+  }
+
+  .dropdown-menu {
+    color:red;
+  }
+
+  .youtube {
+    background-color: maroon;
+    right: 50px;
+    left: 50px;
+  }
+
+  .youtube h1{
+    color:bisque;
+    font-weight: 200;
+    text-align: center;
+    font-size: 25px;
+  }
+
+  .container h1{
+    color:maroon;
+    font-weight: 200;
+    text-align: center;
+    font-size: 25px;
+  }
+  
+
+  
